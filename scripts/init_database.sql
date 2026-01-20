@@ -1,6 +1,7 @@
-*/
-create database schemas
   /*
+create database schemas
+
+*/
 
 show databases;
 use sys;
